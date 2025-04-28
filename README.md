@@ -20,7 +20,7 @@ O jogo é executado no terminal/console, e o usuário deve preencher o tabuleiro
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/DioSudoku.git
+git clone git clone https://github.com/rafafdx/DioSudoku.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -62,7 +62,7 @@ DioSudoku/
 
 ## 👨‍💻 Autor
 
-Nome: Rafael Santos (rafafdx)
+Feito com 💻 por Rafael Santos (rafafdx)
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT.
